@@ -59,6 +59,8 @@ function getNHSHeader(activePage) {
         <a href="index.html" class="nhs-hero-banner__title">Hydatidiform Mole Follow-Up Service (HMFUS)</a>
         <p>Scottish National Centre &middot; Ninewells Hospital, Dundee &middot; NHS Scotland</p>
       </div>
+      <div class="nhs-hero-banner__contact">
+      </div>
       <div class="nhs-hero-banner__logo-right">
         <img src="images/hmfus_logo.png" alt="HMFUS Scotland logo">
       </div>
