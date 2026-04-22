@@ -59,11 +59,6 @@ function getNHSHeader(activePage) {
         <a href="index.html" class="nhs-hero-banner__title">Hydatidiform Mole Follow-Up Service (HMFUS)</a>
         <p>Scottish National Centre &middot; Ninewells Hospital, Dundee &middot; NHS Scotland</p>
       </div>
-      <div class="nhs-hero-banner__contact">
-        <strong>&#x1F4DE; 01382 632748</strong><br>
-        <a href="mailto:TAY.hmolescotland@nhs.scot">TAY.hmolescotland@nhs.scot</a><br>
-        Mon&ndash;Fri, 8am&ndash;5pm
-      </div>
       <div class="nhs-hero-banner__logo-right">
         <img src="images/hmfus_logo.png" alt="HMFUS Scotland logo">
       </div>
