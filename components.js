@@ -82,16 +82,16 @@ function getNHSFooter() {
         <a href="mailto:TAY.hmolescotland@nhs.scot">TAY.hmolescotland@nhs.scot</a>
       </div>
       <div>
+        <h4>Service Hours</h4>
+        <p>Monday – Friday<br>9:00am – 4:00pm</p>
+        <p>Closed on public holidays.</p>
+      </div>
+      <div>
         <h4>Related Services</h4>
         <a href="https://www.nhsinform.scot/illnesses-and-conditions/pregnancy-and-childbirth/losing-a-baby/molar-pregnancy/" target="_blank">NHS Inform</a>
         <a href="https://www.nhs.uk/conditions/molar-pregnancy/" target="_blank">NHS.UK</a>
         <a href="https://www.macmillan.org.uk/" target="_blank">Macmillan Cancer Support</a>
         <a href="https://mymolarpregnancy.com/" target="_blank">MyMolarPregnancy.com</a>
-      </div>
-      <div>
-        <h4>Service Hours</h4>
-        <p>Monday – Friday<br>9:00am – 4:00pm</p>
-        <p>Closed on public holidays.</p>
       </div>
     </div>
     <div class="nhs-footer__bottom">
