@@ -77,7 +77,7 @@ function getNHSFooter() {
     <div class="nhs-footer__inner">
       <div>
         <h4>HMFUS Scotland Clinical Contact Details</h4>
-        <p>Hydatidiform Mole Follow-Up Service<br>Ninewells Hospital, Corridor ward 38, Dundee, DD1 9SY</p>
+        <p>Hydatidiform Mole Follow-Up Service<br>Corridor ward 38, Ninewells Hospital, Dundee, DD1 9SY</p>
         <p>Tel: 01382 632748</p>
         <a href="mailto:TAY.hmolescotland@nhs.scot">TAY.hmolescotland@nhs.scot</a>
       </div>
