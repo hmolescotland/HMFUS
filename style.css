@@ -544,3 +544,14 @@ body {
   .nhs-header__inner { flex-direction: column; align-items: flex-start; }
   .nhs-header__contact { text-align: left; }
 }
+
+/* Make card links look like normal headings */
+.nhs-card h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.nhs-card h3 a:hover {
+  text-decoration: underline;
+}
+
